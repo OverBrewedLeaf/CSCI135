@@ -1,1 +1,1 @@
-#  Fall 2020 @Hunter Colleg- CSCI 135
+#  Fall 2020 @Hunter College- CSCI 135
